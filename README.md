@@ -1,4 +1,4 @@
-# Controller-algorithm-for-quadcopter
+# Control-algorithm-for-quadcopter
 
 This section has PID controller, Nonlinear dynamic inversion controller based on euler angles and body rates are provided.
 
